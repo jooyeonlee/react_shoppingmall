@@ -1,0 +1,15 @@
+.card {
+    max-width: 80wv;
+}
+
+.card-text {
+    word-wrap: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 2px;
+}
+
+.ratings {
+    margin: 0%;
+    padding: 0%;
+}
